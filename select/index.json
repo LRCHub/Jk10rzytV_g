@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "死生活",
+  "base_artist": "syudou",
+  "createdAt": "2026-02-12T08:25:41.545524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "死生活",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/01_死生活_syudou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "死生活",
+      "artist": "syudou feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_死生活_syudou_feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死生活",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_死生活_syudou.txt"
+    }
+  ]
+}
